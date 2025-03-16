@@ -5,7 +5,9 @@ Bu proje, bir kütüphane yönetim sisteminin RESTful API'sini içermektedir. Si
 ## Swagger UI 
 
 <p align="center">
+  ```markdown
   <img src="./swg.png" alt="Swagger UI Arayüzü" width="800">
+  ```
 </p>
 
 dotnet watch
