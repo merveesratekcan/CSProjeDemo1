@@ -2,13 +2,10 @@
 
 Bu proje, bir kütüphane yönetim sisteminin RESTful API'sini içermektedir. Sistem, kitapların ve üyelerin yönetimini sağlar, ödünç alma ve iade işlemlerini destekler.
 
-## Swagger UI 
+<div align="center">
+  <img src="CSProjeDemo1.WebAPI/images/swg.png" alt="Swagger UI" width="800"/>
+</div>
 
-<p align="center">
-  ```markdown
-  <img src="./swg.png" alt="Swagger UI Arayüzü" width="800">
-  ```
-</p>
 
 dotnet watch
 http://localhost:5000/index.html
